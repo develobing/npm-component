@@ -1,5 +1,5 @@
 {
-  "name": "@philoin88/reusable-components",
+  "name": "@philoin88/npm-components",
   "version": "0.0.0",
   "description": "This package implements react components based on MUI",
   "type": "module",
