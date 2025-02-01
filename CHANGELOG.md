@@ -1,5 +1,11 @@
 # @philoin88/npm-components
 
+## 2.0.2
+
+### Patch Changes
+
+- b7906a4: Update peerDependencies
+
 ## 2.0.1
 
 ### Patch Changes
